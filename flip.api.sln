@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "flip.api", "flip.api\flip.api.csproj", "{B4C6C6F8-F04C-45DA-B3C7-E7CD75DAF58D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "flip.biz", "flip.biz\flip.biz.csproj", "{29679DB2-B669-4898-BBF4-2980A3E7B4EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "flip.dal", "flip.dal\flip.dal.csproj", "{D00B56A6-686A-4841-B0C4-B05A085AAC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C6C6F8-F04C-45DA-B3C7-E7CD75DAF58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C6C6F8-F04C-45DA-B3C7-E7CD75DAF58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C6C6F8-F04C-45DA-B3C7-E7CD75DAF58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C6C6F8-F04C-45DA-B3C7-E7CD75DAF58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29679DB2-B669-4898-BBF4-2980A3E7B4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29679DB2-B669-4898-BBF4-2980A3E7B4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29679DB2-B669-4898-BBF4-2980A3E7B4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29679DB2-B669-4898-BBF4-2980A3E7B4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00B56A6-686A-4841-B0C4-B05A085AAC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00B56A6-686A-4841-B0C4-B05A085AAC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00B56A6-686A-4841-B0C4-B05A085AAC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00B56A6-686A-4841-B0C4-B05A085AAC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88114FE4-A8DA-421C-9830-E0AB600BE6F1}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://minimalistdev.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = flip.api\\flip.api.csproj
+		SccProjectName1 = flip.api
+		SccLocalPath1 = flip.api
+		SccProjectUniqueName2 = flip.biz\\flip.biz.csproj
+		SccProjectName2 = flip.biz
+		SccLocalPath2 = flip.biz
+		SccProjectUniqueName3 = flip.dal\\flip.dal.csproj
+		SccProjectName3 = flip.dal
+		SccLocalPath3 = flip.dal
+	EndGlobalSection
+EndGlobal
